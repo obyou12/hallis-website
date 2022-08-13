@@ -1,0 +1,17 @@
+/* https://www.w3schools.com/css/css_navbar_horizontal.asp */
+nav.top-nav{
+    /* this remove the bullets*/
+    list-style-type: none; 
+    margin:0;
+    padding:0; 
+    color:black; 
+}
+
+li{
+    display: inline;
+    padding: 8px;
+}
+
+.right-side-linklin-log{
+    float: right;
+}
