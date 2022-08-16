@@ -13,5 +13,17 @@ li{
 }
 
 .right-side-linklin-log{
+    display: right;
+}
+.right-side-image img{
+    float: left;
+}
+
+/*
+.left-side-image{
+    display:left;
+}
+.left-side-image img{
     float: right;
 }
+*/
